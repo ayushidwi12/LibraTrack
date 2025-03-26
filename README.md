@@ -105,7 +105,7 @@ Click Deploy and get a Live URL!
 This project is open-source and free to use! 🚀
 
 📞 Need Help?
-Feel free to raise an issue in the GitHub repository or contact me! 😊
+Feel free to raise an issue in the GitHub repository or contact me! (manolarohit24@gmail.com) 😊
 
 🎉 Enjoy Using the Digital Library Book Management System! 🚀📖
 Now, copy-paste this into your README.md file and push it to GitHub!
