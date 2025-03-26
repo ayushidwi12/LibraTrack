@@ -35,6 +35,8 @@ sh
 Copy
 Edit
 cd target/
+
+
 3️⃣ Run the application using Java:
 
 sh
@@ -47,7 +49,9 @@ sh
 Copy
 Edit
 java -jar DigitalLibrary-1.0-SNAPSHOT-jar-with-dependencies.jar
-Option 2: Build and Run Manually (For Developers)
+Option 2: Build and Run Manually (For Developers) 
+
+
 1️⃣ Clone the repository
 
 sh
@@ -55,12 +59,16 @@ Copy
 Edit
 git clone https://github.com/rohitmanola/Digital-Library-Book-Management-System.git
 cd Digital-Library-Book-Management-System
+
+
 2️⃣ Build the JAR file using Maven
 
 sh
 Copy
 Edit
 mvn clean package
+
+
 3️⃣ Run the newly generated JAR file
 
 sh
