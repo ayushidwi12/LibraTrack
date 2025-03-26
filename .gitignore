@@ -1,6 +1,6 @@
 target/
-- !target/*.jar
-+ !target/DigitalLibrary-1.0-SNAPSHOT.jar
+ !target/*.jar
+ !target/DigitalLibrary-1.0-SNAPSHOT.jar
 
 
 ### IntelliJ IDEA ###
