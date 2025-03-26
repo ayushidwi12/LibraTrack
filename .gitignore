@@ -3,7 +3,6 @@ target/
 + !target/DigitalLibrary-1.0-SNAPSHOT.jar
 
 
-
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
