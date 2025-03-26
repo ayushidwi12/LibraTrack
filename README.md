@@ -10,7 +10,7 @@ Copy
 Edit
 Digital Library Book Management System/
 │── src/                         # Source code files
-│── target/                       # Compiled JAR file (output)
+│── target/                       # Compiled JAR files (output)
 │── pom.xml                       # Maven configuration file
 │── README.md                     # Project documentation
 │── .gitignore                     # Git ignore rules
@@ -41,6 +41,12 @@ sh
 Copy
 Edit
 java -jar DigitalLibrary-1.0-SNAPSHOT.jar
+👉 If you need all dependencies included, run:
+
+sh
+Copy
+Edit
+java -jar DigitalLibrary-1.0-SNAPSHOT-jar-with-dependencies.jar
 Option 2: Build and Run Manually (For Developers)
 1️⃣ Clone the repository
 
@@ -61,9 +67,13 @@ sh
 Copy
 Edit
 java -jar target/DigitalLibrary-1.0-SNAPSHOT.jar
-🌐 Deploying the JAR File
-If you want to deploy this JAR file online, you can use:
+👉 If required, run with dependencies:
 
+sh
+Copy
+Edit
+java -jar target/DigitalLibrary-1.0-SNAPSHOT-jar-with-dependencies.jar
+🌐 Deploying the JAR File
 ✅ Replit (Quick and Free)
 Go to Replit
 
@@ -80,7 +90,7 @@ java -jar DigitalLibrary-1.0-SNAPSHOT.jar
 Share the public link!
 
 ✅ Render (For Public Cloud Deployment)
-Sign up at Render.com
+Sign up at Render
 
 Create a new Web Service
 
@@ -105,8 +115,6 @@ Click Deploy and get a Live URL!
 This project is open-source and free to use! 🚀
 
 📞 Need Help?
-Feel free to raise an issue in the GitHub repository or contact me! (manolarohit24@gmail.com) 😊
+Feel free to raise an issue in the GitHub repository or contact me at manolarohit24@gmail.com 😊
 
 🎉 Enjoy Using the Digital Library Book Management System! 🚀📖
-Now, copy-paste this into your README.md file and push it to GitHub!
-Let me know if you need any modifications or improvements! 😊
