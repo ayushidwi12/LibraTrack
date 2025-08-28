@@ -12,7 +12,7 @@ class LibraryServiceTest {
     private LibraryService libraryService;
 
     @BeforeEach
-    void setUp() {
+    void setUp(){
         libraryService = new LibraryService();
         libraryService.addBook(new Book(1, "Java Basics", "John Doe", "Programming", true));
     }
